@@ -7,5 +7,5 @@ Kubeflow pipeline has been implemented in two versions:
 2. Kale version
 
 ### Tested on
-Kubeflow Distribution : Arikkto's [MiniKF] (https://www.arrikto.com/install-kubeflow-minikf/) build version v1.4-rc.0
+Kubeflow Distribution : Arikkto's [MiniKF](https://www.arrikto.com/install-kubeflow-minikf/) build version v1.4-rc.0
 Kubeflow Version      : v1.4
